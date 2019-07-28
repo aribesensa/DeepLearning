@@ -87,3 +87,4 @@ history = model.fit_generator(train_generator,
                     callbacks=[reduce_lr, csv_logger, checkpointer])
 
 #参考　https://employment.en-japan.com/engineerhub/entry/2017/04/28/110000
+#参考　https://employment.en-japan.com/engineerhub/entry/2017/04/28/110000
